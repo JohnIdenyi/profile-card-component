@@ -23,8 +23,8 @@ This is great project to enhance your skills in CSS. I think I've been able to m
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/JohnIdenyi/profile-card-component)
-- Live Site URL: [Add live site URL here](https://profile-component-main.netlify.app/)
+- Solution URL: (https://github.com/JohnIdenyi/profile-card-component)
+- Live Site URL: (https://profile-component-main.netlify.app/)
 
 
 ### Built with
