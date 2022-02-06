@@ -17,13 +17,13 @@ This is great project to enhance your skills in CSS. I think I've been able to m
 
 ### Screenshot
 
-![](.images/screenshot.jpg)
+![](./images/screenshot.jpg)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/JohnIdenyi/profile-card-component)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 
