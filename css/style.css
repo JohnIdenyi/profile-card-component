@@ -18,7 +18,7 @@ body {
     font-family: var(--Kumbh-Sans);
     background-color: var(--Dark-cyan);
     background-image: url("../images/bg-pattern-top.svg"), url("../images/bg-pattern-bottom.svg");
-    background-position: left bottom;
+    background-position: top -900px left -700px, bottom -900px right -700px;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -91,7 +91,17 @@ body {
 }
 
 @media screen and (max-width: 768px) {
+    body {
+        background-position: top -450px left -350px, bottom -450px right -350px;
+    }
+
     .profile-container {
         width: 85%;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    body {
+        background-position: top -550px left -450px, bottom -550px right -450px;
     }
 }

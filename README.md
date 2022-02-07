@@ -19,8 +19,6 @@ This is great project to enhance your skills in CSS. I think I've been able to m
 
 ![](./images/screenshot.jpg)
 
-
-
 ### Links
 
 - Solution URL: (https://github.com/JohnIdenyi/profile-card-component)
